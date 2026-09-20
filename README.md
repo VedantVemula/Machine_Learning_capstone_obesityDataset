@@ -1,4 +1,4 @@
-# Obesity ML Capstone — 23CSE301
+# Machine Learning Capstone on Obesity Dataset
 
 Predicting obesity levels using the UCI "Estimation of Obesity Levels 
 Based on Eating Habits and Physical Condition" dataset.
