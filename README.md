@@ -6,7 +6,7 @@ Based on Eating Habits and Physical Condition" dataset.
 ## Tracks
 - Regression: predicting Weight (10 algorithms)
 - Classification: predicting NObeyesdad, obesity category (Part A: 5 algorithms, Review 1)
-- Clustering: added in Review 2
+
 
 ## Setup
 pip install -r requirements.txt
